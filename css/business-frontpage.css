@@ -51,6 +51,16 @@ section.contact li{
     line-height: 2;
 }
 
+section.gray{
+    margin-top: 40px;
+    padding: 30px 0;
+    background: #eeeeee;
+}
+section.gray h3{
+    margin: 0;
+    font-size: 22pt;
+}
+
 footer {
     margin: 50px 0;
 }
