@@ -30,6 +30,10 @@ body {
     margin: 0 auto;
 }
 
+.pricing-intro h2{
+    margin-bottom: 20px;
+}
+
 section.contact{
     background: #f5f5f5 url(../images/map-bottom.png);
     min-height: 400px;
