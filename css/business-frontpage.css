@@ -12,7 +12,7 @@ body {
 
 .business-header {
     height: 400px;
-    background: url('../images/background-1.png') center center no-repeat scroll;
+    background: url('../images/background-1.jpg') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -52,7 +52,7 @@ section.contact li{
 }
 
 section.gray{
-    background: #f5f5f5 url(../images/map-bottom.png);
+    background: #f5f5f5 url(../images/background-2.jpg);
     min-height: 400px;
     background-size:auto 100%;
     padding-top: 30px;
