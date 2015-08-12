@@ -73,6 +73,13 @@ section.gray h2{
     color: #FFFF19;
 }
 
+section.gray a{
+    margin: 0;
+    color: #FFFF19;
+}
+
+
+
 footer {
     margin: 50px 0;
 }
